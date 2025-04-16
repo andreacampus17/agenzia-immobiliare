@@ -1,0 +1,422 @@
+@media only  screen and (min-height:600px ), (min-width:1000px) 
+{
+.testa-bordo
+{
+	display:block;
+	height:100px;
+	width:100%;
+	background-color: green;
+	border:none;
+	margin:0px;
+}
+#logout_style
+{
+	background-color: #4CAF50;
+	color: black;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius:8px;
+	
+	margin-left:40px;
+	height:20px;
+	width: 150px;
+	border:none;
+	margin-top:5px;
+}
+
+body
+{
+	margin:0px;
+}
+
+
+.button {
+	background-color: #4CAF50;
+	color: black;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius:8px;
+	margin-top:10px;
+	margin-right:10px;
+	height:40px;
+	width: 240px;
+	border:none;
+}
+#salva_immobile
+{
+	background-color: #4CAF50;
+	color: black;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius:8px;
+	margin-left:650px;
+	margin-bottom:70px;
+	height:40px;
+	width: 240px;
+	border:none;
+}
+#nav
+{
+	background-color: #4CAF50;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius:8px;
+  height:40px;
+  width: 15%;
+  border:none;
+  margin-top:0,5%;
+}
+form 
+{
+	margin-top:10px;
+	margin-bottom:20px;
+	
+}
+td
+{
+	height: 30px;
+	width: 100px;
+	text-align:center;
+	margin:0px;
+	padding:8px;
+}
+tr
+{
+	margin:0px;
+	padding:0px;
+}
+#campi 
+{
+	font-weight:bold;
+}
+#tabella
+{
+	border: 1px solid gray;
+	border-collapse: collapse;
+
+}
+
+input[type = text]
+{
+	margin-top:10px;
+	margin-bottom:20px;
+	height:30px;
+	width:300px;
+}
+.container {
+  height: 100px;
+  position: relative;
+}
+
+.vertical-center {
+  margin-left: 700px;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+#tabella2
+{
+	border:none;
+}
+#td-date
+{
+	border:none;
+}
+#errors
+{
+	display:none;
+	width:20%;
+	border:1px solid red;
+	margin-top:20px;
+	margin-left: 40%;
+	border-radius: 20px;
+}
+}
+@media only screen and (orientation: portrait)
+{
+@media only screen and (max-height:600px ) and (max-width: 1000px)
+{
+.testa-bordo
+{
+	display:block;
+	height:100px;
+	width:100%;
+	background-color: red;
+	border:none;
+	margin:0px;
+}
+#logout_style
+{
+	background-color: #4CAF50;
+	color: black;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius:8px;
+	
+	margin-left:40px;
+	height:20px;
+	width: 150px;
+	border:none;
+	margin-top:5px;
+}
+body
+{
+	margin:0px;
+}
+.button {
+	background-color: #4CAF50;
+	color: black;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius:8px;
+	margin-top:25px;
+	margin-right:10px;
+	height:40px;
+	width: 240px;
+	border:none;
+}
+#salva_immobile
+{
+	background-color: #4CAF50;
+	color: black;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius:8px;
+	margin-left:650px;
+	margin-bottom:70px;
+	height:40px;
+	width: 240px;
+	border:none;
+}
+#nav
+{
+	background-color: #4CAF50;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius:8px;
+  height:40px;
+  width: 20%;
+  border:none;
+}
+form 
+{
+	margin-top:10px;
+	margin-bottom:20px;
+	
+}
+td
+{
+	height: 30px;
+	width: 1%;
+	text-align:center;
+	margin:0px;
+	padding:0px;
+}
+tr
+{
+	margin:0px;
+	padding:0px;
+	width:6%;
+}
+#campi 
+{
+	font-weight:bold;
+}
+#tabella
+{
+	border: 1px solid gray;
+	border-collapse: collapse;
+
+}
+
+input[type = text]
+{
+	margin-top:10px;
+	margin-bottom:20px;
+	height:30px;
+	width:80%;
+}
+.container {
+  height: 100px;
+  position: relative;
+}
+
+.vertical-center {
+  margin-left: 700px;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+#tabella2
+{
+	border:none;
+}
+#td-date
+{
+	border:none;
+}
+#errors
+{
+	display:none;
+	width:20%;
+	border:1px solid red;
+	margin-top:20px;
+	margin-left: 40%;
+	border-radius: 20px;
+}
+}
+}
+@media only screen and (orientation: landscape)
+{
+@media only  screen and (max-height: 600px ) and (max-width: 1000px)
+{
+	
+#logout_style
+{
+	background-color: #4CAF50;
+	color: black;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius:8px;
+	
+	margin-left:40px;
+	height:20px;
+	width: 150px;
+	border:none;
+	margin-top:5px;
+}	
+.testa-bordo
+{
+	display:block;
+	height:100px;
+	width:100%;
+	background-color: blue;
+	border:none;
+	margin:0px;
+}
+body
+{
+	margin:0px;
+}
+.button {
+	background-color: #4CAF50;
+	color: black;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius:8px;
+	margin-top:25px;
+	margin-right:10px;
+	height:40px;
+	width: 240px;
+	border:none;
+}
+#salva_immobile
+{
+	background-color: #4CAF50;
+	color: black;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius:8px;
+	margin-left:650px;
+	margin-bottom:70px;
+	height:40px;
+	width: 240px;
+	border:none;
+}
+#nav
+{
+	background-color: #4CAF50;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius:8px;
+  height:40px;
+  width: 20%;
+  border:none;
+}
+form 
+{
+	margin-top:10px;
+	margin-bottom:20px;
+	
+}
+td
+{
+	height: 30px;
+	width: 1%;
+	text-align:center;
+	margin:0px;
+	padding:0px;
+}
+tr
+{
+	margin:0px;
+	padding:0px;
+	width:6%;
+}
+#campi 
+{
+	font-weight:bold;
+}
+#tabella
+{
+	border: 1px solid gray;
+	border-collapse: collapse;
+
+}
+
+input[type = text]
+{
+	margin-top:10px;
+	margin-bottom:20px;
+	height:30px;
+	width:80%;
+}
+.container {
+  height: 100px;
+  position: relative;
+}
+
+.vertical-center {
+  margin-left: 700px;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+#tabella2
+{
+	border:none;
+}
+#td-date
+{
+	border:none;
+}
+#errors
+{
+	display:none;
+	width:20%;
+	border:1px solid red;
+	margin-top:20px;
+	margin-left: 40%;
+	border-radius: 20px;
+}
+}
+}
+

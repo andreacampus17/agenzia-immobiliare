@@ -1,0 +1,46 @@
+
+.testa-bordo
+{
+	display:block;
+	height:100px;
+	width:100%;
+	background-color: green;
+	border:none;
+	margin:0px;
+}
+body
+{
+	margin:0px;
+}
+.zoom 
+{
+	padding: 50px;
+	background-color: green;
+	transition: transform .2s; /* Animation */
+	width: 130px;
+	height: 160px;
+	margin: 50px;
+	display: inline-block; 
+	position: relative;
+  
+}
+.zoom:hover 
+{
+	-ms-transform: scale(1.1); /* IE 9 */
+	
+	transform: scale(1.2,1.2); 
+}
+
+#button {
+  background-color: #4CAF50;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius:8px;
+  margin-top:2%;
+  margin-left:84%;
+  height:25%;
+  width: 15%;
+  border:none;
+}

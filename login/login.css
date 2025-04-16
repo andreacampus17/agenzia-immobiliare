@@ -1,0 +1,105 @@
+@media screen and (min-height: 920px),(min-width: 450px)
+{
+#login-class
+{
+	display: block;
+	height:80%;
+	width:20%;
+	background-color: green;
+	border:none;
+	margin-top:200px;
+	margin-left: 40%;
+	border-radius: 20px;
+	box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+}
+input[type = text]
+{
+	width: 80%;
+	height:30px;
+	border-radius:20%;
+	margin-top:5%;
+	margin-left:7%;
+	text-align:center;
+}
+input[type = password]
+{
+	width: 80%;
+	height:30px;
+	border-radius:20%;
+	margin-top:5%;
+	margin-left:7%;
+	text-align:center;
+}
+input[type = submit]
+{
+	width: 80%;
+	height:30px;
+	border-radius:20%;
+	margin-top:5%;
+	margin-left:9%;
+	margin-bottom:5%;
+}
+.errore_login
+{
+	display: block;
+	height:20px;
+	width:20%;
+	border:1px solid red;
+	margin-top:20px;
+	margin-left: 40%;
+	border-radius: 20px;
+}
+}
+
+@media screen and (max-height: 920px) and (max-width: 450px)
+{
+	#login-class
+	{
+	display: block;
+	height:100%;
+	width:80%;
+	background-color: green;
+	border:none;
+	margin-top:70%;
+	margin-left: 10%;
+	border-radius: 20px;
+	box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+	}
+	input[type = text]
+{
+	width: 80%;
+	height:30px;
+	border-radius:20%;
+	margin-top:15%;
+	margin-left:7%;
+	text-align:center;
+}
+input[type = password]
+{
+	width: 80%;
+	height:30px;
+	border-radius:20%;
+	margin-top:15%;
+	margin-left:7%;
+	text-align:center;
+}
+input[type = submit]
+{
+	width: 80%;
+	height:30px;
+	border-radius:20%;
+	margin-top:15%;
+	margin-left:9%;
+	margin-bottom:5%;
+}
+.errore_login
+{
+	display: block;
+	height:20px;
+	width:20%;
+	border:1px solid red;
+	margin-top:20px;
+	margin-left: 40%;
+	border-radius: 20px;
+}
+}

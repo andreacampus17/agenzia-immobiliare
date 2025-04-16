@@ -1,0 +1,243 @@
+@media only  screen and (min-height:600px ), (min-width:1000px) 
+{
+.testa-bordo
+{
+	display:block;
+	height:100px;
+	width:100%;
+	background-color: green;
+	border:none;
+	margin:0px;
+}
+#logout_style
+{
+	background-color: #4CAF50;
+	color: black;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius:8px;
+	
+	margin-left:40px;
+	height:20px;
+	width: 150px;
+	border:none;
+	margin-top:5px;
+}
+body
+{
+	margin:0px;
+}
+
+
+.button {
+  background-color: #4CAF50;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius:8px;
+  margin-top:10px;
+  margin-right:10px;
+  height:40px;
+  width: 240px;
+  border:none;
+}
+#nav
+{
+	background-color: #4CAF50;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius:8px;
+  height:40px;
+  width: 240px;
+  border:none;
+}
+
+form
+{
+	margin-top:10px;
+	margin-bottom:20px;
+}
+td
+{
+	height: 30px;
+	width: 100px;
+	text-align:center;
+}
+#campi
+{
+	font-weight:bold;
+}
+table, th, td {
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+}
+@media only screen and (orientation: portrait)
+{
+	
+@media only screen and (max-height:600px ) and (max-width: 1000px)
+{
+#logout_style
+{
+	background-color: #4CAF50;
+	color: black;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius:8px;
+	
+	margin-left:40px;
+	height:20px;
+	width: 150px;
+	border:none;
+	margin-top:5px;
+}	
+	.testa-bordo
+{
+	display:block;
+	height:100px;
+	width:100%;
+	background-color: green;
+	border:none;
+	margin:0px;
+}
+
+body
+{
+	margin:0px;
+}
+
+
+.button {
+  background-color: #4CAF50;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius:8px;
+  margin-top:10px;
+  margin-right:10px;
+  height:40px;
+  width: 240px;
+  border:none;
+}
+#nav
+{
+	background-color: #4CAF50;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius:8px;
+  height:40px;
+  width: 240px;
+  border:none;
+}
+
+form
+{
+	margin-top:10px;
+	margin-bottom:20px;
+}
+td
+{
+	height: 30px;
+	width: 100px;
+	text-align:center;
+}
+#campi
+{
+	font-weight:bold;
+}
+table, th, td {
+  border: 1px solid gray;
+  border-collapse: collapse;
+}	
+}
+}
+@media only screen and (orientation: landscape)
+{
+@media only  screen and (max-height: 600px ) and (max-width: 1000px)
+{
+#logout_style
+{
+	background-color: #4CAF50;
+	color: black;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius:8px;
+	
+	margin-left:40px;
+	height:20px;
+	width: 150px;
+	border:none;
+	margin-top:5px;
+}	
+.testa-bordo
+{
+	display:block;
+	height:100px;
+	width:100%;
+	background-color: green;
+	border:none;
+	margin:0px;
+}
+
+body
+{
+	margin:0px;
+}
+
+
+.button {
+  background-color: #4CAF50;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius:8px;
+  margin-top:10px;
+  margin-right:10px;
+  height:40px;
+  width: 240px;
+  border:none;
+}
+#nav
+{
+	background-color: #4CAF50;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius:8px;
+  height:40px;
+  width: 240px;
+  border:none;
+}
+
+form
+{
+	margin-top:10px;
+	margin-bottom:20px;
+}
+td
+{
+	height: 30px;
+	width: 100px;
+	text-align:center;
+}
+#campi
+{
+	font-weight:bold;
+}
+table, th, td {
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+}
+}

@@ -1,0 +1,23 @@
+.intestazione
+{
+	
+	background-color: green;
+	text-align:right;
+	
+}
+.test
+{
+	margin-right: 7px;
+}
+input {
+  width: 10%;
+  margin-top : 3px;
+  margin-bottom : 7px;
+ 
+  border-radius: 6px;
+  }
+  input[type = submit]
+  {
+	  margin-top: 3;
+	  padding: 5px;
+  }
